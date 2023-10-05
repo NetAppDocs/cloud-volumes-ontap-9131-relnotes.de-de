@@ -701,4 +701,8 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Alle BlueXP-Dokumentationen</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="dea335c9c6f638eb584011e253ad6ca1" category="sidebar">ONTAP Cloud</block>
+  <block id="8b2d765c50b94c53d6721cec3481a157" category="section-title">9.13.1 P1 (3. Oktober 2023)</block>
+  <block id="2de7023f95c4ec26ccc423bd34c3771c" category="paragraph">Der Patch 9.13.1 P1 ist jetzt für Cloud Volumes ONTAP für alle Cloud-Anbieter verfügbar, wenn Sie einen Connector mit Version 3.9.26 oder höher haben. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
+  <block id="a9380d77cd3c45a5f15f09b231323443" category="inline-link-macro">Zeigt die Liste der im P1-Patch fixierten Fehler an</block>
+  <block id="a381b8f37c04a51537dbe6d9053cfbbb" category="paragraph"><block ref="ccefc7f2c29a122e93c4f12a5703f3ec" category="inline-link-macro-rx"></block> (Anmeldung auf der NetApp Support Site erforderlich).</block>
 </blocks>
