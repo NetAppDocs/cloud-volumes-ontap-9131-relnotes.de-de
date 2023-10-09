@@ -442,9 +442,7 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="9f71cb3204a7c80e435b6337aed1e728" category="cell">256 tib</block>
   <block id="6c3b49ddb811c2d88edee86163680009" category="section-title">Beschränkungen für Node-basierte Lizenzierung</block>
   <block id="d017aa906544a3348ee35d75ebb10b72" category="paragraph">Die folgenden Festplattenbeschränkungen gelten für Cloud Volumes ONTAP Systeme, die eine Node-basierte Lizenzierung verwenden. Hierbei handelt es sich um das Lizenzmodell der vorherigen Generation, mit dem Sie Cloud Volumes ONTAP pro Node lizenzieren können. Knotenbasierte Lizenzierung ist weiterhin für Bestandskunden verfügbar.</block>
-  <block id="52960fb5a2829740ddef9c61b6015d59" category="list-text">Wenn Sie die Node-basierte Lizenzierung verwenden, können Sie mehrere Node-basierte Lizenzen für ein BYOL-System von Cloud Volumes ONTAP erwerben, um mehr als 368 tib Kapazität zuzuweisen.</block>
   <block id="275e3ef1a302e67e93bcf0f30d566f74" category="inline-link">Erfahren Sie, wie Sie Cloud Volumes ONTAP zusätzliche Systemlizenzen hinzufügen</block>
-  <block id="05c9b06fc32318d0689c553219a9d496" category="paragraph">Die Anzahl der Lizenzen, die Sie für ein Single Node-System oder ein HA-Paar erwerben können, ist unbegrenzt. Beachten Sie, dass die Festplattenbeschränkungen verhindern können, dass Sie durch die Verwendung von Festplatten allein das Kapazitätslimit nicht erreichen. Sie können die Festplattengrenze um überschreiten<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>.<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>.</block>
   <block id="fff4bb20e652c529e2e22e76e56ed9b5" category="section-title">Single Node mit PAYGO Premium</block>
   <block id="40959eff270cd482e3813b16716a7ee3" category="cell">21 ^1^</block>
   <block id="c7867e37fc822edce03899d5be8cd610" category="cell">19 ^2^</block>
@@ -454,7 +452,6 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="cabc996760a00c42a2b15b388054d050" category="cell">Maximale Systemkapazität mit mehreren Lizenzen</block>
   <block id="bb49543449782c0f1b87b3ef8f49a6be" category="cell">*Festplatten allein*</block>
   <block id="e3185eb0708df4883935910ebf26f8db" category="cell">*Festplatten + Daten-Tiering*</block>
-  <block id="f94f9afeacfc431720c782db2e1d8809" category="cell">368 tib x jede Lizenz</block>
   <block id="9dbb7f356b08de585f6ddbe523e4a8d8" category="section-title">HA-Paare mit PAYGO Premium</block>
   <block id="156b98ab4634edb024f99442726e3e8d" category="cell">18 ^1^</block>
   <block id="dee0912fefbe003d7ae380d371a87fad" category="cell">16 ^2^</block>
@@ -705,4 +702,7 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="2de7023f95c4ec26ccc423bd34c3771c" category="paragraph">Der Patch 9.13.1 P1 ist jetzt für Cloud Volumes ONTAP für alle Cloud-Anbieter verfügbar, wenn Sie einen Connector mit Version 3.9.26 oder höher haben. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
   <block id="a9380d77cd3c45a5f15f09b231323443" category="inline-link-macro">Zeigt die Liste der im P1-Patch fixierten Fehler an</block>
   <block id="a381b8f37c04a51537dbe6d9053cfbbb" category="paragraph"><block ref="ccefc7f2c29a122e93c4f12a5703f3ec" category="inline-link-macro-rx"></block> (Anmeldung auf der NetApp Support Site erforderlich).</block>
+  <block id="fd164e9cb2bc1ac5405cabfe451663f7" category="cell">2 PiB (erfordert mehrere Lizenzen)</block>
+  <block id="2dbd9a217bce4c7ba4ef467f57d6875c" category="paragraph">Sie können mehrere Node-basierte Lizenzen für ein Cloud Volumes ONTAP BYOL Single Node- oder HA-Paar-System erwerben, um mehr als 368 tib Kapazität zuzuweisen, bis zum maximal getesteten und unterstützten Systemkapazitätslimit von 2 PiB. Beachten Sie, dass die Festplattenbeschränkungen verhindern können, dass Sie durch die Verwendung von Festplatten allein das Kapazitätslimit nicht erreichen. Sie können die Festplattengrenze um überschreiten<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>.<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>. Obwohl Cloud Volumes ONTAP eine bis zu der maximal getesteten und unterstützten Systemkapazität von 2 PiB unterstützt, führt das Überschreiten der Grenze von 2 PiB zu einer nicht unterstützten Systemkonfiguration.</block>
+  <block id="de9d6749570efc87e63811b5947fc250" category="paragraph">AWS Secret Cloud und Top Secret Cloud-Regionen unterstützen ab Cloud Volumes ONTAP 9.12.1 den Erwerb mehrerer Node-basierter Lizenzen.</block>
 </blocks>
