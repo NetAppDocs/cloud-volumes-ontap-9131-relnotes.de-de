@@ -713,4 +713,10 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="540e57f70019c3eb8d7fb999259fd473" category="cell">Blobs der Seite</block>
   <block id="6098d03c49b315476cd9c4d4eb330395" category="list-text">Cloud Volumes ONTAP unterstützt bei der Verwendung eines HA-Paars eine hohe Schreibgeschwindigkeit mit diesen VM-Typen. Sie können hohe Schreibgeschwindigkeit von BlueXP während der Bereitstellung oder jederzeit danach aktivieren.<block ref="18805b87db41583a67ecc2414d022f2b" category="inline-link-rx"></block>.</block>
   <block id="bcc4564bd7fc660f5dd5b39219b9775f" category="list-text">Diese VMs werden nur bei Implementierungen von Cloud Volumes ONTAP 9.11.1 oder einer älteren Version unterstützt. Mit diesen VM-Typen können Sie eine bestehende Page Blob-Implementierung von Cloud Volumes ONTAP 9.11.1 auf 9.12.1 upgraden. Sie können keine neuen Seiten-Blob-Bereitstellungen mit Cloud Volumes ONTAP 9.12.1 oder höher durchführen.</block>
+  <block id="93a8f424f80a11f2b0c8033863918070" category="section-title">9.13.1 P2 und 9.13.1 P3 (20. Oktober 2023)</block>
+  <block id="1f5ba0320bb355ce1c84fa22d3320c81" category="paragraph">Die Patches 9.13.1 P2 und 9.13.1 P3 stehen jetzt für Cloud Volumes ONTAP für alle Cloud-Provider zur Verfügung, wenn Sie einen Connector mit Version 3.9.26 oder höher haben. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
+  <block id="4c7cf73669136d536c96ca7317eb5ceb" category="inline-link-macro">Zeigen Sie die Liste der im P3-Patch fixierten Fehler an</block>
+  <block id="a4cdabe7d09534b66cc3588e7a6be157" category="list-text"><block ref="64910144ceff590b89d211507e69f99d" category="inline-link-macro-rx"></block> (Anmeldung auf der NetApp Support Site erforderlich).</block>
+  <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">Zeigen Sie die Liste der im P2-Patch fixierten Fehler an</block>
+  <block id="3a241c1cc236161cb13d8868799bd35d" category="list-text"><block ref="6401b436e7a7c9f3878e464100366d7a" category="inline-link-macro-rx"></block> (Anmeldung auf der NetApp Support Site erforderlich).</block>
 </blocks>
