@@ -503,7 +503,6 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="d5b5d1eda2a2c0d060f59094000e6aea" category="paragraph">Da zum einen eine private IP-Adresse erforderlich ist, wird die Anzahl der zusätzlichen, von Ihnen erstellten Storage VMs begrenzt. Die einzige Ausnahme ist ein HA-Paar in mehreren Verfügbarkeitszonen. In diesem Fall ist die IP-Adresse für die Management LIF eine _Floating_ IP-Adresse, somit wird sie nicht gegen die _private_ IP-Beschränkung angerechnet.</block>
   <block id="4f9154c68af93dc525373bf1a9c2edce" category="section-title">Datei- und Volume-Einschränkungen</block>
   <block id="8e79313a5b6fb51ae3e76e64449c9f1d" category="cell">Hierarchische Klontiefe ^1^</block>
-  <block id="a69b1618b78e74242413945e92315e51" category="doc">Versionshinweise zu Cloud Volumes ONTAP 9.13.1</block>
   <block id="fa082ab1a05e05550971e6e5f583dcfe" category="summary">Verschiedene Cloud Volumes ONTAP Konfigurationen werden in AWS unterstützt.</block>
   <block id="8bb0da4c260f565e0c8162ea9c2b7caa" category="doc">Unterstützte Konfigurationen in AWS</block>
   <block id="7db0f9060b8b2def82346add7b8e89c0" category="section-title">Unterstützte Anzahl an Nodes</block>
@@ -765,11 +764,11 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="1b62edb82c1bd156e44ee97345e44486" category="paragraph">Der 9.13.1 P12-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
   <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link-macro">Sehen Sie sich die Liste der Fehler an, die im P12-Patch behoben wurden</block>
   <block id="455214c21df5263f6ed36c053cb45a4e" category="paragraph"><block ref="9c93dffbb4ec23fa855293479535be60" category="inline-link-macro-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
-  <block id="e107edea5015f3e06a3e74dda1dc6b6f" category="inline-link">FabricPool Best Practices-Leitfaden</block>
-  <block id="35817b290a25aecb5178d7e9eaf01a17" category="paragraph">Weitere Informationen finden Sie im<block ref="a846ee339ee812c7fc25a76975d73fb9" category="inline-link-rx"></block></block>
   <block id="417d564baf44c113e38a023e8ac69531" category="inline-link">Aktivieren und deaktivieren Sie den aggressiven Read-Ahead-Modus</block>
   <block id="40a618f301b0824dc71ab1ceed4fe45d" category="paragraph">Weitere Informationen finden Sie in der ONTAP Dokumentation:<block ref="5ac0d9b6b12766db0ad38c087c84f3bf" category="inline-link-rx"></block></block>
   <block id="555816af48eeb34081ba83c44d62bd87" category="inline-link">Aktivieren und deaktivieren Sie Volumes für einen direkten Schreibvorgang in die Cloud</block>
   <block id="08580da782a41b39a0487a40d392a946" category="paragraph">Weitere Informationen finden Sie in der ONTAP Dokumentation:<block ref="31143d7508b448ef79ac6c1971109dcf" category="inline-link-rx"></block></block>
   <block id="a6fe7cde79de251ddde0aaad9dbb2181" category="sidebar">Versionshinweise zu Cloud Volumes ONTAP 9.13.1</block>
+  <block id="9a0e7479c9cf0eb3c5daeee67a193e9c" category="inline-link">FabricPool Best Practices-Leitfaden</block>
+  <block id="5136c1f236d74f0ffec89821cebaa3c3" category="paragraph">Weitere Informationen finden Sie im<block ref="b2bafa57d3373ad362797046a95bb197" category="inline-link-rx"></block></block>
 </blocks>
