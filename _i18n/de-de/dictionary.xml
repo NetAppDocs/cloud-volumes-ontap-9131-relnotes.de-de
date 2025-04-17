@@ -777,4 +777,8 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="ef9be83cb59b0572a3581a6724316e48" category="list-text">Informationen zur regionalen Unterstützung von Google Cloud Platform finden Sie unter<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>.</block>
   <block id="d798d4963d0ac509a1bda5483d9b9a52" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block>.</block>
   <block id="e352347c3b9ab444c9cbd3aba4e7075d" category="sidebar">In diesen Versionshinweisen werden neue Funktionen, Einschränkungen und bekannte Probleme von Cloud Volumes ONTAP 9.13.1 beschrieben</block>
+  <block id="26ec81ff5c81559f7b03729282f91614" category="section-title">9.13.1 P14 (17. April 2025)</block>
+  <block id="e704552b4c3a7637fec737f29e4f81b7" category="paragraph">Der 9.13.1 P14-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
+  <block id="c476446cae3f83bea1b304ddc122e040" category="inline-link-macro">Sehen Sie sich die Liste der Fehler an, die im P14-Patch behoben wurden</block>
+  <block id="78a93fb58bfa815953d0dd609c64d9b2" category="paragraph"><block ref="51eb214624a80ecbca9373da2cbd3635" category="inline-link-macro-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
 </blocks>
