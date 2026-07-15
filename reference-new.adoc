@@ -20,6 +20,7 @@ Zusätzliche Funktionen und Erweiterungen sind ebenfalls in den neuesten Version
 
 
 
+[[9-13-1-p14-17-april-2025]]
 == 9.13.1 P14 (17. April 2025)
 
 Der 9.13.1 P14-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -28,6 +29,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p13-20-january-2025]]
 == 9.13.1 P13 (20. Januar 2025)
 
 Der 9.13.1 P13-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -36,6 +38,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p12-25-november-2024]]
 == 9.13.1 P12 (25. November 2024)
 
 Der 9.13.1 P12-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -44,6 +47,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p11-14-october-2024]]
 == 9.13.1 P11 (14. Oktober 2024)
 
 Der 9.13.1 P11-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -52,6 +56,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p10-8-august-2024]]
 == 9.13.1 P10 (8. August 2024)
 
 Der 9.13.1 P10-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -60,6 +65,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p9-22-may-2024]]
 == 9.13.1 P9 (22. Mai 2024)
 
 Der 9.13.1 P9-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -68,6 +74,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p8-18-april-2024]]
 == 9.13.1 P8 (18. April 2024)
 
 Der 9.13.1 P8-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -76,6 +83,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p7-1-april-2024]]
 == 9.13.1 P7 (1. April 2024)
 
 Der 9.13.1 P7-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -84,6 +92,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p6-5-february-2024]]
 == 9.13.1 P6 (5. Februar 2024)
 
 Der 9.13.1 P6-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Anbieter verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -92,6 +101,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p4-8-december-2023]]
 == 9.13.1 P4 (8. Dezember 2023)
 
 Der 9.13.1 P4-Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud-Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -100,6 +110,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p2-and-9-13-1-p3-20-october-2023]]
 == 9.13.1 P2 und 9.13.1 P3 (20. Oktober 2023)
 
 Die Patches 9.13.1 P2 und 9.13.1 P3 stehen jetzt für Cloud Volumes ONTAP für alle Cloud-Provider zur Verfügung, wenn Sie einen Connector mit Version 3.9.26 oder höher haben. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -110,6 +121,7 @@ Die Patches 9.13.1 P2 und 9.13.1 P3 stehen jetzt für Cloud Volumes ONTAP für a
 
 
 
+[[9-13-1-p1-3-october-2023]]
 == 9.13.1 P1 (3. Oktober 2023)
 
 Der Patch 9.13.1 P1 ist jetzt für Cloud Volumes ONTAP für alle Cloud-Anbieter verfügbar, wenn Sie einen Connector mit Version 3.9.26 oder höher haben. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.
@@ -118,12 +130,14 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-ga-26-july-2023]]
 == 9.13.1 GA (26. Juli 2023)
 
 Die allgemeine Verfügbarkeit von Cloud Volumes ONTAP 9.13.1 ist jetzt in AWS, Azure und Google Cloud verfügbar.
 
 
 
+[[9-13-1-rc1-26-june-2023]]
 == 9.13.1 RC1 (26. Juni 2023)
 
 Der Release Candidate 1 von Cloud Volumes ONTAP 9.13.1 ist jetzt in AWS, Azure und Google Cloud verfügbar.
@@ -147,12 +161,14 @@ Weitere Informationen finden Sie in der ONTAP Dokumentation: https://docs.netapp
 
 
 
+[[upgrade-notes]]
 == Upgrade-Hinweise
 
 Lesen Sie diese Hinweise, um mehr über das Upgrade auf diese Version zu erfahren.
 
 
 
+[[how-to-upgrade]]
 === Upgrade-Tipps
 
 Upgrades von Cloud Volumes ONTAP müssen von BlueXP abgeschlossen werden. Sie sollten kein Cloud Volumes ONTAP-Upgrade mit System Manager oder der CLI durchführen. Dies kann die Stabilität des Systems beeinträchtigen.
@@ -161,12 +177,14 @@ link:http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap
 
 
 
+[[supported-upgrade-path]]
 === Unterstützter Upgrade-Pfad
 
 Sie können von den Versionen 9.12.1 und 9.13.0 auf Cloud Volumes ONTAP 9.13.1 aktualisieren. Unter BlueXP werden Sie aufgefordert, qualifizierte Cloud Volumes ONTAP-Systeme auf diese Version zu aktualisieren.
 
 
 
+[[required-version-of-the-connector]]
 === Erforderliche Version des Connectors
 
 Der BlueXP Connector muss mit Version 3.9.26 oder höher ausgeführt werden, um neue Cloud Volumes ONTAP 9.13.1 Systeme zu implementieren und vorhandene Systeme auf 9.13.1 zu aktualisieren.
@@ -176,6 +194,7 @@ TIP: Automatische Upgrades des Connectors sind standardmäßig aktiviert, sodass
 
 
 
+[[downtime]]
 === Ausfallzeit
 
 * Das Upgrade eines einzelnen Node-Systems nimmt das System für bis zu 25 Minuten offline, während dieser I/O-Unterbrechung erfolgt.
@@ -184,6 +203,7 @@ TIP: Automatische Upgrades des Connectors sind standardmäßig aktiviert, sodass
 
 
 
+[[c4-m4-and-r4-instances-no-longer-supported]]
 === c4-, m4- und r4-Instanzen werden nicht mehr unterstützt
 
 In AWS werden die Instanztypen c4, m4 und r4 EC2 nicht mehr mit Cloud Volumes ONTAP unterstützt. Wenn Sie ein System besitzen, das auf einem Instanztyp c4, m4 oder r4 ausgeführt wird, müssen Sie in der instanzfamilie c5, m5 oder r5 zu einem Instanztyp wechseln. Sie können erst auf dieses Release aktualisieren, wenn Sie den Instanztyp ändern.
