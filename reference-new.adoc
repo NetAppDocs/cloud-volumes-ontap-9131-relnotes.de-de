@@ -16,7 +16,18 @@ summary: Cloud Volumes ONTAP 9.13.1 enthält eine neue Verbesserung.
 [role="lead"]
 Cloud Volumes ONTAP 9.13.1 enthält neue Verbesserungen.
 
-Zusätzliche Funktionen und Erweiterungen sind ebenfalls in den neuesten Versionen von BlueXP verfügbar. Siehe https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html["Versionshinweise zu BlueXP"^] Entsprechende Details.
+Die neuesten Versionen von NetApp Console umfassen zudem zusätzliche Funktionen und Erweiterungen. Einzelheiten finden sich in der link:https://docs.netapp.com/us-en/storage-management-cloud-volumes-ontap/whats-new.html["Cloud Volumes ONTAP"^].
+
+
+
+[[9-13-1-p21hf1-12-november-2026]]
+== 9.13.1 P21HF1 (12. November 2026)
+
+Der Patch 9.13.1 P21HF1 ist ab sofort für Cloud Volumes ONTAP für alle Cloud-Anbieter verfügbar. Dieser Patch ist mit dem ONTAP Hotfix für 9.13.1 kompatibel.
+
+Für Ihre Cloud Volumes ONTAP Systeme erhalten Sie möglicherweise in der Console eine Aufforderung zum Upgrade auf diesen Hotfix. Dieser Hotfix wird jedoch nur unterstützt, wenn die Version des Console Agent 4.12.0 oder höher ist. Wenn die Version des Console Agent älter als 4.12.0 ist, kann die Aufforderung ignoriert werden.
+
+link:https://docs.netapp.com/us-en/console-setup-admin/whats-new.html#console-agent-4-12-0["Console Agent 4.12.0"^]
 
 
 
